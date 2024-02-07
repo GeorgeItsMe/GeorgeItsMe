@@ -7,14 +7,14 @@
 
 
 
-* __Yandex Academy Lyceum, September 2023 – Now__
+* __Yandex Academy Lyceum, September 2022 – Now__
    * Studied: Python, PyQt, Pygame, Flask, MySQL 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=still+studing)](https://git.io/typing-svg)
 
 <br>
 
-* __Yandex Intensive on Frontend Development, October 2023 – December 2023__
+* __Yandex Intensive on Data Analysis, October 2023 – December 2023__
    * Studied: Pandas, Seaborn, Numpy
    * Certificate: <a href="https://lms.yandex.ru/certificate/check" target="_blank">2309 171483</a> 
    * Project: 
