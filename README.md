@@ -5,7 +5,7 @@
 
 <h1>Education 📚</h1>
 
-<hr align="center" width="700" size="2"/>
+
 
 * __Yandex Academy Lyceum, September 2023 – Now__
    * Studied: Python, PyQt, Pygame, Flask, MySQL 
@@ -31,7 +31,7 @@
 
 <h1>Language and Tools 💬 & 🛠️</h1>
 
-<hr align="center" width="700" size="2"/>
+
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx01Z1t0R6nJkgvcyXiinwYgyGFPUIFKKSYm513-XUcQ&s" alt="python" width="40" height="40"/> </a> </p>
 
@@ -39,7 +39,7 @@
 
 
 <h1>Problem solving experience</h1>
-<hr align="center" width="700" size="2"/>
+
 <h3>Codewars</h3>
 
 [![codewars](https://www.codewars.com/users/George_Me/badges/large)](https://www.codewars.com/users/George_Me)   
@@ -47,8 +47,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GeorgeeYeon&theme=dark)](https://leetcode.com/GeorgeeYeon/)
 
-
-<hr align="center" width="700" size="2"/>
 <h2>How to contact me ✉️</h2>
 
 _Telegram: @GeorgeWangg_
