@@ -17,7 +17,7 @@
 * __Yandex Intensive on Data Analysis, October 2023 – December 2023__
    * Studied: Pandas, Seaborn, Numpy
    * Certificate: <a href="https://lms.yandex.ru/certificate/check" target="_blank">2309 171483</a> 
-   * Project: 
+   * Project: <a href="https://github.com/GeorgeItsMe/YandexProjectDataScience/tree/main" target="_blank">Click</a> 
 
 <br>
 
