@@ -45,7 +45,7 @@
 [![codewars](https://www.codewars.com/users/George_Me/badges/large)](https://www.codewars.com/users/George_Me)   
 <h3>Leetcode</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GeorgeeYeon&theme=dark)](https://leetcode.com/GeorgeeYeon/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=GeorgeeItsMe&theme=dark)](https://leetcode.com/GeorgeeYeon/)
 
 <h2>How to contact me ✉️</h2>
 
